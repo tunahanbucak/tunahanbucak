@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hello, I am Tunahan, I am 20 years old. I am a computer engineering student.
+Hello, I am Tunahan, I am 21 years old. I am a computer engineering student.
 
 
 ## 🌐 Socials:
