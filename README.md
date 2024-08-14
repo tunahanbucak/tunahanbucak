@@ -6,6 +6,7 @@ Hello, I am Tunahan, I am 21 years old. I am a computer engineering student.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahan-buçak-473812247) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@TunahanBucak) 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
 
 
 # 💻 Tech Stack:
@@ -15,9 +16,7 @@ Hello, I am Tunahan, I am 21 years old. I am a computer engineering student.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tunahanbucak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahanbucak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Google Analytics](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-XXXXXX-X&cid=555&dp=%2Fgithub-profile)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
