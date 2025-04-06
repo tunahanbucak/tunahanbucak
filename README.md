@@ -1,6 +1,10 @@
 
 # 💫 About Me:
-Hello, I am Tunahan, I am 21 years old. I am a computer engineering student.
+Hello, I am Tunahan, I am 22 years old. I am a computer engineering student.I have been working in frontend development for two years, focusing primarily on React and Next.js. Through
+various projects, I have honed my skills in building responsive and user-friendly interfaces. Currently, I am
+expanding my expertise by exploring backend development with Next.js and planning to step into the field of
+artificial intelligence. I am committed to continuous learning and strive to develop efficient, scalable web
+applications.
 
 
 ## 🌐 Socials:
