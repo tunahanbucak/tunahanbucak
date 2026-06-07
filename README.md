@@ -1,12 +1,12 @@
 # 💫 About Me
 
-Hi 👋 I’m **Tunahan**, a 22-year-old **Computer Engineering student** with over **2.5 years of hands-on experience in frontend development**.
+Hi 👋 I’m **Tunahan**, a 23-year-old **Computer Engineer** with nearly **3 years of hands-on experience in frontend and full-stack development**.
 
-I specialize in building **modern, responsive, and user-focused web applications** using **React** and **Next.js**. Through various real-world projects, I’ve developed a strong understanding of **component-based architecture**, **UI consistency**, and **performance optimization**.
+I specialize in building **modern, responsive, and production-ready web applications** using **React** and **Next.js**. Having delivered multiple real-world projects, I focus on **component-based architecture**, **state management**, and **performance optimization**.
 
-Alongside frontend development, I am **actively working on Artificial Intelligence**, with a focus on **Machine Learning, Data Science, and Deep Learning**. I am strengthening my skills in **data analysis, model development, and AI fundamentals**, while also expanding toward **full-stack development with Next.js**.
+Driven by a strong interest in intelligent systems, I am **actively building my expertise as an AI Engineer**, focusing on **Machine Learning, Deep Learning (PyTorch), and Multimodal LLMs**. My goal is to bridge the gap between robust full-stack architecture and data-driven AI capabilities.
 
-I value **clean code**, **scalable solutions**, and **continuous learning**, and I aim to build systems that combine strong user experience with intelligent data-driven features.
+I value **clean code**, **scalable solutions**, and **continuous learning**, always aiming to build systems that combine outstanding user experience with smart backend/AI solutions.
 
 > *“Building clean, scalable, and intelligent web experiences.”*
 
@@ -51,7 +51,6 @@ I value **clean code**, **scalable solutions**, and **continuous learning**, and
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
