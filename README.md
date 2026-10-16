@@ -1,12 +1,13 @@
 # 💫 About Me
 
-Hi 👋 I’m **Tunahan**, a 23-year-old **Computer Engineer** with nearly **3 years of hands-on experience in frontend and full-stack development**.
+# Hi 👋, I'm Tunahan
 
-I specialize in building **modern, responsive, and production-ready web applications** using **React** and **Next.js**. Having delivered multiple real-world projects, I focus on **component-based architecture**, **state management**, and **performance optimization**.
+Computer Engineer bridging modern full-stack development with intelligent AI systems.
 
-Driven by a strong interest in intelligent systems, I am **actively building my expertise as an AI Engineer**, focusing on **Machine Learning, Deep Learning (PyTorch), and Multimodal LLMs**. My goal is to bridge the gap between robust full-stack architecture and data-driven AI capabilities.
-
-I value **clean code**, **scalable solutions**, and **continuous learning**, always aiming to build systems that combine outstanding user experience with smart backend/AI solutions.
+- 💻 **Full-Stack:** Specialized in modern, responsive web applications using **Next.js**, **React**, and **FastAPI** with production-ready architecture.
+- 🧠 **Applied AI:** Actively engineering AI pipelines with **PyTorch**, **Machine Learning**, **Advanced RAG**, and **LLM Agents**.
+- 🎯 **Mission:** Bridging the gap between high-performance web products and real-world AI capabilities.
+- 🛠️ **Philosophy:** Clean code, modular design, and measurable impact.
 
 > *“Building clean, scalable, and intelligent web experiences.”*
 
